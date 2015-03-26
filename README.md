@@ -1,5 +1,2 @@
-# Gamma-Tales
-Group Adventure into Git
+# Detroit-Data-Project
 
-Tom to take lead on getting story board up and rolling
-+1 - greg
