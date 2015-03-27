@@ -1,0 +1,11 @@
+
+h1 {
+	font: normal 300 36px "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.responsive-container {
+	margin: auto;
+	width: 100%;
+	max-width: 600px;
+	padding-top: 2em;
+}
